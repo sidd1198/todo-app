@@ -4,6 +4,7 @@
   "private": true,
   "description": "A simple browser-based to-do list",
   "scripts": {
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "test": "node --test"
   }
 }
